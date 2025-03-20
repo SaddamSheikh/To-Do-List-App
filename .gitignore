@@ -34,3 +34,7 @@ dist-ssr
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Setup files
+setup-github.ps1
+GITHUB_SETUP.md
